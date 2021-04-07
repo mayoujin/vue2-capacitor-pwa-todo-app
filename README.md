@@ -1,4 +1,4 @@
-# SimpleToDo App PWA-based
+# Simple ToDo App PWA-based
 
 This project is a simple Todo [PWA] (Progressive Web App) inspired by [TodoMVC]. Based on [Vue.js] framework and [Vuetify] UI-kit technologies.
 Also, available Android and iOS hybrid mobile apps builds generation with [Capacitor 3].
@@ -14,7 +14,7 @@ ToDo App <a href="https://mayoujin.github.io/vue2-capacitor-pwa-todo-app" target
 Web
 </a><br/>
 <p align="center">
-<img src="https://github.com/mayoujin/vue2-capacitor-pwa-todo-app/raw/main/public/android.snapshot.png" /><br>
+<img width="33%" src="https://github.com/mayoujin/vue2-capacitor-pwa-todo-app/raw/main/public/android.snapshot.png" /><br>
 ToDo App <a href="https://github.com/mayoujin/vue2-capacitor-pwa-todo-app/raw/main/builds/android/vue2-capacitor-pwa-todo-app.apk" target="_blank" rel="noopener">
 Android APK
 </a>
@@ -75,12 +75,6 @@ npm run serve
 
 ```
 npm run build
-```
-
-### Capacitor init
-
-```
-npx cap init
 ```
 
 ### Capacitor add [Android](https://capacitorjs.com/docs/v3/android)
