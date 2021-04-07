@@ -9,12 +9,17 @@ Also, available Android and iOS hybrid mobile apps builds generation with [Capac
 [vue.js]: https://vuejs.org
 [vuetify]: https://vuetifyjs.com
 
+## Live Demo
+ToDo App <a href="https://mayoujin.github.io/vue2-capacitor-pwa-todo-app" target="_blank" rel="noopener">
+Web
+</a><br/>
 <p align="center">
-  <a href="https://mayoujin.github.io/" target="_blank" rel="noopener">
-    <img src="https://vuetifytodo.davidgaroro.es/github/app.png">
-    Live Demo
-  </a>
+<img src="https://github.com/mayoujin/vue2-capacitor-pwa-todo-app/raw/main/public/android.snapshot.png" /><br>
+ToDo App <a href="https://github.com/mayoujin/vue2-capacitor-pwa-todo-app/raw/main/builds/android/vue2-capacitor-pwa-todo-app.apk" target="_blank" rel="noopener">
+Android APK
+</a>
 </p>
+
 
 ## Features
 
@@ -97,5 +102,6 @@ npx cap sync
 ```
 
 ### Android [Troubleshooting](https://capacitorjs.com/docs/v3/android/troubleshooting)
+
 
 
