@@ -1,0 +1,6 @@
+{
+  "appId": "com.todomvc",
+  "appName": "vuetify-todo-pwa",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
